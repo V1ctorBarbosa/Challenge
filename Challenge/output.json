@@ -1,0 +1,144 @@
+[
+    {
+        "addresses": [
+            {
+                "type": "email",
+                "tags": [
+                    "Student"
+                ],
+                "address": "john.appleseed@exemplo.com"
+            },
+            {
+                "type": "email",
+                "tags": [
+                    "Parent"
+                ],
+                "address": "dad.appleseed@exemplo.com"
+            },
+            {
+                "type": "phone",
+                "tags": [
+                    "Parent"
+                ],
+                "address": "5511999911234"
+            }
+        ],
+        "fullname": "John Appleseed",
+        "eid": "1121",
+        "group": [
+            "Turma 1",
+            "Turma 2",
+            "Turma 3",
+            "Turma 6",
+            "Noturno"
+        ],
+        "invisible": true,
+        "see_all": true
+    },
+    {
+        "addresses": [
+            {
+                "type": "email",
+                "tags": [
+                    "Student"
+                ],
+                "address": "john.appleseed1@exemplo.com"
+            },
+            {
+                "type": "phone",
+                "tags": [
+                    "Student"
+                ],
+                "address": "5511999901235"
+            },
+            {
+                "type": "email",
+                "tags": [
+                    "Parent"
+                ],
+                "address": "dad.appleseed1@exemplo"
+            },
+            {
+                "type": "email",
+                "tags": [
+                    "Parent"
+                ],
+                "address": "dad.appleseed2@exemplo.com"
+            },
+            {
+                "type": "phone",
+                "tags": [
+                    "Parent"
+                ],
+                "address": "5511999911235"
+            }
+        ],
+        "fullname": "John Appleseed",
+        "eid": "1222",
+        "group": [
+            "Turma 2",
+            "Turma 5",
+            "Turma 6",
+            "Diurno"
+        ],
+        "invisible": true,
+        "see_all": false
+    },
+    {
+        "addresses": [
+            {
+                "type": "email",
+                "tags": [
+                    "Student"
+                ],
+                "address": "mary.knightexemplo.com"
+            },
+            {
+                "type": "phone",
+                "tags": [
+                    "Student"
+                ],
+                "address": "5512999901235"
+            },
+            {
+                "type": "email",
+                "tags": [
+                    "Parent"
+                ],
+                "address": "dad.knight@exemplo.com"
+            }
+        ],
+        "fullname": "Mary Knight",
+        "eid": "1123",
+        "invisible": false
+    },
+    {
+        "addresses": [
+            {
+                "type": "email",
+                "tags": [
+                    "Student"
+                ],
+                "address": "jack.littleton@exemplo.com"
+            },
+            {
+                "type": "phone",
+                "tags": [
+                    "Student"
+                ],
+                "address": "551399990"
+            },
+            {
+                "type": "phone",
+                "tags": [
+                    "Parent"
+                ],
+                "address": "5513999911236"
+            }
+        ],
+        "fullname": "Jack Littleton",
+        "eid": "1124",
+        "group": "Sala 1",
+        "see_all": true
+    }
+]
